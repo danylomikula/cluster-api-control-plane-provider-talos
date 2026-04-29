@@ -15,7 +15,7 @@ require (
 	github.com/siderolabs/crypto v0.6.5
 	github.com/siderolabs/gen v0.8.6
 	github.com/siderolabs/go-retry v0.3.3
-	github.com/siderolabs/talos/pkg/machinery v1.13.0-rc.0
+	github.com/siderolabs/talos/pkg/machinery v1.13.0
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/sync v0.20.0
